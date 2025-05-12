@@ -224,7 +224,8 @@ Original image vs image with hidden message:
 
 ![image](https://github.com/MonikaJov/Image-Steganography-using-LSB/assets/86190069/948a0059-4f60-4c61-a14f-9bfec7a293a2)
 
-The image with a hidden message is a little bigger than the orifginal image.
+The image with a hidden message is a little bigger than the orifginal image
+
 
 ![image](https://github.com/MonikaJov/Image-Steganography-using-LSB/assets/86190069/dc5d5dac-ea92-4ec7-a80a-0e5ef3de2e1b)
 
