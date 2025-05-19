@@ -2,7 +2,7 @@
 
 This project is a Java program that is focused on implementing form of steganography using the Least Significant Bit (LSB) method for hiding a message within an image file with the purpose of secure data transfer over internet. It includes methods for ecrypting the text, embedding the text into the image, extracting the text from the resulting picture and decrypting it.
 
-## Research: 
+## Research:  
  
 • Steganography is a technique of hiding a message or data within another non-secret message or data (image, audio file, or video). Cryptography makes a message unreadable by encoding it, steganography hides the existence of the message.
 
